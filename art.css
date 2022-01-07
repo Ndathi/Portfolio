@@ -1,0 +1,27 @@
+#title{
+    color:rgb(39, 9, 4);
+    text-align:center;
+}
+body{
+    
+    text-align: center;
+}
+#a,#d,#g{
+    float: left;
+    width:300px;
+    height: 300px;
+}
+#b,#e,#h{
+    float: center;
+    width:300px;
+    height: 300px;
+}
+#c,#f,#i{
+    float:right;
+    width:300px;
+    height: 300px;
+}
+
+
+
+
